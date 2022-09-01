@@ -1,6 +1,6 @@
 # PP-YOLO
 
-PP-YOLO is an improved version of YOLOv3. It is called PP-YOLO since the authors conducted all experiments based on PaddlePaddle, a Parallel Distributed Deep Learning framework.
+PP-YOLO is an object detector that based on YOLOv3. It is called PP-YOLO since the authors conducted all experiments based on PaddlePaddle, a Parallel Distributed Deep Learning framework.
 I did not build the code from scratch; I used <a href="https://github.com/PaddlePaddle/PaddleDetection">PaddleDetection</a> as a reference.
 
 ## Dataset
