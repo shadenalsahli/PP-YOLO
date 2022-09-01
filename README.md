@@ -11,7 +11,8 @@ I trained the model on the <a href="https://public.roboflow.com/object-detection
 <a></a>
 
 
-
-*Note: if GitHub does not render the Notebook, you can open it from <a href="https://nbviewer.org/github/shadenalsahli/PP-YOLO/blob/main/PP_YOLO.ipynb">Here</a>.*
+*<strong>
+Note: if GitHub does not render the Notebook, you can open it from <a href="https://nbviewer.org/github/shadenalsahli/PP-YOLO/blob/main/PP_YOLO.ipynb">Here</a>.
+ </strong>*
 
 
